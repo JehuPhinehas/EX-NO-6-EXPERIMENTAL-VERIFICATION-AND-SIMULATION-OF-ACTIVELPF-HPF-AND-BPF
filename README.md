@@ -96,6 +96,8 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-27 at 7 02 16 PM](https://github.com/user-attachments/assets/129a246f-cec0-47bc-9f99-dc886734e241)
+
 ---
 
  ## 6 B HIGH PASS FILTER
@@ -179,6 +181,8 @@ PROCEDURE - ( HPF):
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-27 at 7 02 47 PM](https://github.com/user-attachments/assets/0d5c59ef-8925-437b-89cd-7107894a27a4)
 
 ---
 
@@ -265,6 +269,8 @@ PROCEDURE:BAND PASS FILTER
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-27 at 7 02 58 PM](https://github.com/user-attachments/assets/55dda86e-c3ce-4477-98e7-f44f856774da)
 
 ---
 ##RESULT:
