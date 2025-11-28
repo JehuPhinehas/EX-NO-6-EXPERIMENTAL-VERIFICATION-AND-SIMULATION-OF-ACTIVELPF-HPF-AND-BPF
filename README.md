@@ -49,7 +49,8 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## OUTPUT WAVEFORM
 
-<img width="1600" height="1158" alt="image" src="https://github.com/user-attachments/assets/b3cf543f-478d-4156-9446-e0c8ff578ab3" />
+<img width="1600" height="1116" alt="image" src="https://github.com/user-attachments/assets/39c73206-5cc5-4324-b7b6-a9c5360f5232" />
+
 
 
 ## MODEL GRAPH
@@ -211,7 +212,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## OUTPUT WAVEFORM
 
-![WhatsApp Image 2025-11-27 at 7 59 35 PM](https://github.com/user-attachments/assets/9f169376-74cd-45e5-93d5-2d2554c76742)
+<img width="1600" height="1186" alt="image" src="https://github.com/user-attachments/assets/c4cc99d7-e0f8-4adf-9931-eb56d45ef0ed" />
 
 ## MODEL GRAPH
 
@@ -259,7 +260,8 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/c16f3fab-5b79-4a36-b81c-91f473009861" />
+<img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/8b377080-1ec8-412d-bca0-f574007df144" />
+
 
 ---
 ##RESULT:
