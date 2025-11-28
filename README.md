@@ -48,6 +48,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 
 ## OUTPUT WAVEFORM
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0462cede-2aa5-4b93-a5a5-4d4b961c5bd2" />
 
 <img width="1600" height="1116" alt="image" src="https://github.com/user-attachments/assets/39c73206-5cc5-4324-b7b6-a9c5360f5232" />
 
@@ -95,7 +96,7 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
 <img width="1600" height="1116" alt="image" src="https://github.com/user-attachments/assets/bee82ab9-5bbd-438d-86d3-67770aaf2f20" />
 
 
@@ -133,6 +134,8 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ![WhatsApp Image 2025-11-27 at 7 57 16 PM](https://github.com/user-attachments/assets/881b3de0-8ada-4891-a134-d1df76d29228)
 
 ## OUTPUT WAVEFORM
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/4c354f79-867e-4540-a124-07eaea6f1632" />
+
 ![WhatsApp Image 2025-11-27 at 7 57 39 PM](https://github.com/user-attachments/assets/fbe412c1-46a8-4117-8884-1fb3cddb02dc)
 
 
@@ -260,6 +263,7 @@ PROCEDURE:BAND PASS FILTER
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="784" height="339" alt="image" src="https://github.com/user-attachments/assets/572f2950-719e-48c9-a9d4-7ca3a3a17621" />
 
 <img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/8b377080-1ec8-412d-bca0-f574007df144" />
 
