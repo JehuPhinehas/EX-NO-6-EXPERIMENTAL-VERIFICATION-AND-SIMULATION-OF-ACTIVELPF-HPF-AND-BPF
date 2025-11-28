@@ -94,13 +94,6 @@ PROCEDURE - (LPF):
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
-
-
-<img width="1600" height="1116" alt="image" src="https://github.com/user-attachments/assets/bee82ab9-5bbd-438d-86d3-67770aaf2f20" />
-
-
----
 
  ## 6 B HIGH PASS FILTER
 
