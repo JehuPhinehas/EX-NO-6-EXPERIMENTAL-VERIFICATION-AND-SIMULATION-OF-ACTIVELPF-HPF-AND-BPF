@@ -205,10 +205,6 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 ## SIMULATION CIRCUIT DIAGRAM
 ![WhatsApp Image 2025-11-27 at 7 59 21 PM](https://github.com/user-attachments/assets/a813d45c-5591-484e-8d86-fc0b83825f26)
 
-## OUTPUT WAVEFORM
-
-<img width="1600" height="1186" alt="image" src="https://github.com/user-attachments/assets/c4cc99d7-e0f8-4adf-9931-eb56d45ef0ed" />
-
 ## MODEL GRAPH
 
 <img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
