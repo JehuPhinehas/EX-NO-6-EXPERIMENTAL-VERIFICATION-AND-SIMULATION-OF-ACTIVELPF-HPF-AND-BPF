@@ -40,17 +40,21 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-27 at 6 53 25 PM](https://github.com/user-attachments/assets/e6c06ea6-b5bf-4b90-a287-1ab9ee64386d)
+<img width="1600" height="1077" alt="image" src="https://github.com/user-attachments/assets/1859d276-a73e-4ce3-ae20-e7a6c3bfede3" />
+
 
 ## SIMULATION CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-27 at 7 54 35 PM](https://github.com/user-attachments/assets/95d64700-d2bc-4ddf-8bf8-017d851ce8bf)
+<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/d36795e6-1e40-44b1-99b4-0b1e595162b8" />
+
 
 ## OUTPUT WAVEFORM
 
-![WhatsApp Image 2025-11-27 at 7 55 12 PM](https://github.com/user-attachments/assets/af383850-f667-42b9-add6-a7d9d9bad8b4)
+<img width="1600" height="1158" alt="image" src="https://github.com/user-attachments/assets/b3cf543f-478d-4156-9446-e0c8ff578ab3" />
+
 
 ## MODEL GRAPH
-<img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
+<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/dd516af4-827d-42ca-82b2-be8f8da49bd0" />
+
 
 ---
 
