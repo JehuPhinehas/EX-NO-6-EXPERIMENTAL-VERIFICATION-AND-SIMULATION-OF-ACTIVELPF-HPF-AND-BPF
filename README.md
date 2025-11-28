@@ -125,7 +125,8 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 6 53 40 PM](https://github.com/user-attachments/assets/93ec5781-bcb2-469e-983f-9cbf16ab8152)
+<img width="1600" height="959" alt="image" src="https://github.com/user-attachments/assets/c24441f3-8136-44cf-abf7-22a2019708e5" />
+
 
 ## SIMULATION CIRCUIT DIAGRAM
 
@@ -205,7 +206,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 6 54 04 PM](https://github.com/user-attachments/assets/1627d2c5-17e2-43b0-9580-bf981af5a47d)
+<img width="1600" height="1002" alt="image" src="https://github.com/user-attachments/assets/15ab9308-21c0-45e5-a2eb-5bb911a94785" />
 
 ## SIMULATION CIRCUIT DIAGRAM
 ![WhatsApp Image 2025-11-27 at 7 59 21 PM](https://github.com/user-attachments/assets/a813d45c-5591-484e-8d86-fc0b83825f26)
