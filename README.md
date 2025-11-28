@@ -128,6 +128,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## OUTPUT WAVEFORM
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/4c354f79-867e-4540-a124-07eaea6f1632" />
+<img width="1600" height="1186" alt="image" src="https://github.com/user-attachments/assets/a36a6c8c-e795-4d8f-a48c-213fc33d6a71" />
 
 ![WhatsApp Image 2025-11-27 at 7 57 39 PM](https://github.com/user-attachments/assets/fbe412c1-46a8-4117-8884-1fb3cddb02dc)
 
@@ -171,9 +172,6 @@ PROCEDURE - ( HPF):
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
-
-<img width="1600" height="1186" alt="image" src="https://github.com/user-attachments/assets/eb3888ef-7926-4dc7-8771-ee835a18e246" />
 
 
 ---
