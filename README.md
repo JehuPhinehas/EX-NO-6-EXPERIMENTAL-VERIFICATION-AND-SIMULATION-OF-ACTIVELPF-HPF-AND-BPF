@@ -59,6 +59,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ---
 
 ## DESIGN
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/15df900c-a9b9-471f-881d-07f9e0279d26" />
 
 Given: fH = 1 KHz = 1/ (2πRC) Let C = 0.1 µF, R = 1.6 KΩ
 For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414 = 1.586.
@@ -93,7 +94,9 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 7 02 16 PM](https://github.com/user-attachments/assets/129a246f-cec0-47bc-9f99-dc886734e241)
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+<img width="1600" height="1116" alt="image" src="https://github.com/user-attachments/assets/bee82ab9-5bbd-438d-86d3-67770aaf2f20" />
+
 
 ---
 
@@ -138,6 +141,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ---
 
 ## DESIGN
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/632c3318-eca3-4d7c-92d2-b2f48e97a743" />
 
 Given: fH = 1 KHz = 1/ (2πRC) Let C = 0.1 µF, R = 1.6 KΩ
 For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414 = 1.586.
@@ -216,6 +220,8 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 ---
 
 ## DESIGN
+
+<img width="1551" height="1600" alt="image" src="https://github.com/user-attachments/assets/8176eebc-d1e8-424c-97d5-678bf2cb55f8" />
 
 DESIGN: BAND PASS FILTER
 
