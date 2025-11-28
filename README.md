@@ -175,7 +175,8 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 7 02 47 PM](https://github.com/user-attachments/assets/0d5c59ef-8925-437b-89cd-7107894a27a4)
+<img width="1600" height="1186" alt="image" src="https://github.com/user-attachments/assets/eb3888ef-7926-4dc7-8771-ee835a18e246" />
+
 
 ---
 
@@ -258,7 +259,7 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 7 02 58 PM](https://github.com/user-attachments/assets/55dda86e-c3ce-4477-98e7-f44f856774da)
+<img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/c16f3fab-5b79-4a36-b81c-91f473009861" />
 
 ---
 ##RESULT:
